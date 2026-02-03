@@ -9,6 +9,7 @@ I would like to delve deeper into data structures and algorithms, while improvin
 
 In-Class Java Coding Warm Up file:
 
+```java
 public class Animal
 {
     public void makeNoise()
