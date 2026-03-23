@@ -1,0 +1,14 @@
+#symbol,name,sector,marketCap,country
+AAPL,Apple,Technology,2800000,USA
+MSFT,Microsoft,Technology,3000000,USA
+AMZN,Amazon,Ecommerce,2200000,USA
+GOOG,Google,Technology,2800000,USA
+TSLA,Tesla,Automotive,1300000,USA
+META,Meta,Technology,1500000,USA
+NVDA,Nvidia,Technology,4200000,USA
+NFLX,Netflix,Entertainment,400000,USA
+JPM,JPMorgan Chase,Finance,770000,USA
+V,Visa,Finance,580000,USA
+BABA,Alibaba,Ecommerce,290000,China
+SAP,SAP,Technology,200000,Germany
+TM,Toyota,Automotive,260000,Japan
